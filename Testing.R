@@ -1,3 +1,4 @@
 print("This file was created within RStudio")
 print("And now it lives on GitHub")
-pirnt("Second commiti!")
+print("Second commiti!")
+print("f12") 
